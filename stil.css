@@ -3,11 +3,11 @@ body{
     
     }
     body a
-{ color: #FFFFFF;
+{ color: #252222;
 text-decoration: none;}
 
 body a:hover
-{ color: #f0f010;}
+{ color: #e91008;}
 #wraper
 {
 height:100%;
@@ -24,7 +24,7 @@ height: 230px;
 float:left;
 width: 900px;
 height: 30px;
-background-color: #00BFFF;
+background-color: #00fff2;
 line-height: 40px;
 font-size: 13pt;
 }
@@ -47,20 +47,22 @@ margin-right:95px;
 text-decoration: none;
 }
 #nav li a:hover{
-color: #FFFF00;
+color: #ff1100;
 }
 
 #levakolona{
 float: left;
 width: 150px;
-background-color:#00BFFF;
+background-color:#00fff2;
 height: 620px;
 }
 #levakolona ul{
 position:relative;
 right:5px;
 margin:0;
-list-style-type: none;}
+list-style-type: none;
+font-size: 13pt;
+}
 
 #gume
 {
@@ -106,7 +108,7 @@ div.desc
 float:left;
 width: 900px;
 height:40px;
-font-size:13;
-background-color:#00BFFF;
+font-size:17px;
+background-color: #00fff2;;
 }
 
